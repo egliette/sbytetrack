@@ -4,6 +4,8 @@
 - Independent object counting across multiple processes
 - Class-specific tracking
 
+Note: This source code is mainly based on [Supervision BYTETrack](https://github.com/roboflow/supervision)
+
 ## Installation
 
 Currently, this package is for local use only.
